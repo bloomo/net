@@ -1,0 +1,157 @@
+.version.about /* version checker */
+{
+	color: #0000E2;
+	background-color: #5C2BFD;
+}
+
+.html
+{
+	background: #F6F6F6 url("../images/shattered.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1024px;
+	min-height: 750px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu8061
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 18px;
+	margin-left: -72px;
+}
+
+#u8061
+{
+	z-index: 2;
+	width: 133px;
+	margin-right: -10000px;
+}
+
+#u8063-4
+{
+	z-index: 4;
+	width: 63px;
+	min-height: 20px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	margin-right: -10000px;
+	margin-top: 69px;
+	left: 37px;
+}
+
+#u8063-4:hover
+{
+	padding-top: 2px;
+	padding-bottom: 2px;
+	min-height: 20px;
+	margin: 69px -10000px 0px 0px;
+}
+
+#u8064-4
+{
+	z-index: 8;
+	width: 59px;
+	min-height: 19px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	margin-right: -10000px;
+	margin-top: 43px;
+	left: 35px;
+}
+
+#u8064-4:hover
+{
+	padding-top: 2px;
+	padding-bottom: 2px;
+	min-height: 19px;
+	margin: 43px -10000px 0px 0px;
+}
+
+#u8065
+{
+	z-index: 12;
+	width: 80px;
+	height: 2px;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 27px;
+}
+
+#u4260-93
+{
+	z-index: 13;
+	width: 590px;
+	min-height: 454px;
+	background-color: transparent;
+	line-height: 1.5;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 85px;
+	left: 219px;
+}
+
+#u4260-2,#u4260-5,#u4260-8,#u4260-11,#u4260-14,#u4260-16,#u4260-19
+{
+	text-align: left;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u4260-3,#u4260-6,#u4260-9,#u4260-12,#u4260-17,#u4260-20
+{
+	text-align: left;
+}
+
+#u4260-22
+{
+	color: #57C2FA;
+}
+
+#u4260-28
+{
+	text-align: center;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u4260-29,#u4260-31
+{
+	font-size: 21px;
+	text-align: center;
+	color: #494949;
+	font-family: courier-prime, monospace;
+	font-weight: 700;
+}
+
+#u4260-32
+{
+	font-size: 11px;
+	color: #494949;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+}
+
+#u4260-25,#u4260-34,#u4260-36,#u4260-39,#u4260-41,#u4260-43,#u4260-45,#u4260-47,#u4260-49,#u4260-51,#u4260-53,#u4260-56,#u4260-58,#u4260-61,#u4260-63,#u4260-65,#u4260-67,#u4260-69,#u4260-71,#u4260-73,#u4260-75,#u4260-77,#u4260-79,#u4260-81,#u4260-83,#u4260-85,#u4260-87,#u4260-89,#u4260-91
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u4260-2  span,#u4260-5  span,#u4260-8  span,#u4260-11  span,#u4260-14  span,#u4260-16  span,#u4260-19  span,#u4260-25  span,#u4260-25  a,#u4260-28  span,#u4260-28  a,#u4260-34  span,#u4260-34  a,#u4260-36  span,#u4260-36  a,#u4260-39  span,#u4260-39  a,#u4260-41  span,#u4260-41  a,#u4260-43  span,#u4260-43  a,#u4260-45  span,#u4260-45  a,#u4260-47  span,#u4260-47  a,#u4260-49  span,#u4260-49  a,#u4260-51  span,#u4260-51  a,#u4260-53  span,#u4260-53  a,#u4260-56  span,#u4260-56  a,#u4260-58  span,#u4260-58  a,#u4260-61  span,#u4260-61  a,#u4260-63  span,#u4260-63  a,#u4260-65  span,#u4260-65  a,#u4260-67  span,#u4260-67  a,#u4260-69  span,#u4260-69  a,#u4260-71  span,#u4260-71  a,#u4260-73  span,#u4260-73  a,#u4260-75  span,#u4260-75  a,#u4260-77  span,#u4260-77  a,#u4260-79  span,#u4260-79  a,#u4260-81  span,#u4260-81  a,#u4260-83  span,#u4260-83  a,#u4260-85  span,#u4260-85  a,#u4260-87  span,#u4260-87  a,#u4260-89  span,#u4260-89  a,#u4260-91  span,#u4260-91  a /* line-height set on spans of mixed font sized paras */
+{
+	line-height: 1.5;
+}
+
+body
+{
+	position: relative;
+	min-width: 1024px;
+}
+
